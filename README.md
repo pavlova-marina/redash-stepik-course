@@ -11,3 +11,5 @@
 ```
 docker-compose up
 ```
+
+После этого Redash будет доступен в браузере по адресу `http://localhost:5000/`.
