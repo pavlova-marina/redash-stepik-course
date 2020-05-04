@@ -1,2 +1,2 @@
-# redash-stepik-course
-additional files for stepik course
+# Файлы для установки Redash на локальный компьтер (Windows) с помощью Docker Compose.
+Для загрузки всех необходимых файлов нажмите на кнопку "Clone or download".
